@@ -1,0 +1,8 @@
+Given N,  reverse the digits of N.
+ 
+Example 1:
+Input: 200
+Output: 2
+Explanation: By reversing the digts of number, number will change into 2.
+
+For more reference, check - https://practice.geeksforgeeks.org/problems/reverse-digit0316/1?page=1&difficulty[]=-2&status[]=unsolved&category[]=Mathematical&sortBy=submissions
