@@ -1,0 +1,17 @@
+Given a number N. The task is to complete the function convertFive() which replaces all zeros in the number with 5 and returns the number.
+
+Example:
+Input
+2
+1004
+121
+
+Output
+1554
+121
+
+Explanation:
+Testcase 1:  At index 1 and 2 there is 0 so we replace it with 5.
+Testcase 2: There is no,0 so output will remain the same.
+
+For more reference, check - https://practice.geeksforgeeks.org/problems/replace-all-0-with-5-in-an-input-integer/1?page=1&difficulty[]=-2&status[]=solved&category[]=Mathematical&sortBy=submissions
