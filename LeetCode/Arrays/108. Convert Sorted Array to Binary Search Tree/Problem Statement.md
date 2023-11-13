@@ -13,7 +13,9 @@ Explanation: [0,-10,5,null,-3,null,9] is also accepted:
 
 ### Example 2:
 Input: nums = [1,3]
+
 Output: [3,1]
+
 Explanation: [1,null,3] and [3,1] are both height-balanced BSTs.
  
 ### Constraints:
